@@ -11,6 +11,7 @@ body {
   background-color: #fff;
   border-radius: 5px;
   overflow: hidden;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
 
 .header {
@@ -37,6 +38,7 @@ body {
 
 .main-img {
   width: 100%;
+  height: auto;
 }
 
 .icons {
@@ -44,6 +46,11 @@ body {
   justify-content: space-between;
   padding: 10px;
   font-size: 20px;
+}
+
+i {
+  margin-right: 10px;
+  cursor: pointer;
 }
 
 .likes {
