@@ -1,5 +1,4 @@
-# 📸 Instagram Post Clone
-
+# 📸 Post de Instagram
 Este es un ejercicio del bootcamp para replicar un post de Instagram utilizando **HTML5** y **CSS3**.
 
 ## 🐾 Sobre el proyecto
