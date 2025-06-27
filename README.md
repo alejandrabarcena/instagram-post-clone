@@ -19,3 +19,4 @@ Bootcamp Fullstack - 4Geeks Academy
 [👉](https://alejandrabarcena.github.io/instagram-post-clone/)
 
 ## 🌐 Vista Previa
+[📸](https://github.com/alejandrabarcena/instagram-post-clone/blob/main/vistaprevia.png)
