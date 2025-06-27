@@ -16,7 +16,9 @@ Con ayuda de su asistente canina **PatsyPug** 🐶
 Bootcamp Fullstack - 4Geeks Academy
 
 ## 🌐 Proyecto publicado
-[👉](https://alejandrabarcena.github.io/instagram-post-clone/)
 
+ [👉](https://alejandrabarcena.github.io/instagram-post-clone/)
 ## 🌐 Vista Previa
+
 [📸](https://github.com/alejandrabarcena/instagram-post-clone/blob/main/vistaprevia.png)
+
