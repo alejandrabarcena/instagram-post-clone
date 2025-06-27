@@ -15,7 +15,7 @@ Creado por **Alejandra Bárcena** 🦄
 Con ayuda de su asistente canina **PatsyPug** 🐶  
 Bootcamp Fullstack - 4Geeks Academy
 
-## 🌐 Proyecto publicado
+## 🌐 Proyecto publicado 
 
  [👉](https://alejandrabarcena.github.io/instagram-post-clone/)
 ## 🌐 Vista Previa
